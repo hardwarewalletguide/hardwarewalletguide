@@ -41,3 +41,4 @@ SEO INCLUÍDO
 
 SEGURANÇA
 Este projeto não imita login, não coleta seed/recovery phrase e não distribui executáveis. Downloads, firmware e suporte apontam para canais oficiais Ledger.
+Deploy trigger
