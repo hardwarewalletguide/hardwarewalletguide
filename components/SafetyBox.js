@@ -1,0 +1,1 @@
+export default function SafetyBox(){return <aside className="safety"><strong>Security reminder</strong><p>Never enter a recovery phrase or private key into this website. For downloads, firmware, support or device setup, use the official Ledger website and verify the domain yourself.</p></aside>}
